@@ -59,3 +59,6 @@ Translation uploader - This allows a user to simply copy in a table of options w
 <img width="1200" height="814" alt="image" src="https://github.com/user-attachments/assets/2493558b-cb24-4bcf-b59e-17dcee318772" />
 
 
+<h2>Advanced barcode search</h2>
+I created an advanced Barcode search tool that can carry out multiple different SQL queries and provide concise results to search for multiple parameters. Eliminating the need to do multiple different searches, saving users' time.
+
