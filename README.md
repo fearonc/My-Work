@@ -1,4 +1,4 @@
-# My-Work
+# My Work
 A collation of all my AI and efficiency developments
 
 Using AI assistants such as Claude and Chat GPT I've developed a range of tools, workflow improvements, existing tool limitation workarounds, and time-saving processes for multiple teams.
@@ -22,7 +22,7 @@ Allowing a clear, simple workflow to carry out checks and automate very tedious 
 
 <img width="487" height="1302" alt="image" src="https://github.com/user-attachments/assets/01ba2657-149e-4902-950d-c7afb0155651" />
 
-
+I've developed several additional VBA macros for content that were incorporated into a single worksheet: A URL creator that produced a compliant URL based on a product title, a HTML checker to correct broken HTML and wrap plain text in correct HTML ready for ingesting, a complex Excel formula to concatenate data from a table with a lot of HTML to output a full HTML table from a sheet of product data.
 
 
 
@@ -30,7 +30,7 @@ Allowing a clear, simple workflow to carry out checks and automate very tedious 
 
 I've used PowerShell macros for a variety of tasks for my Catalogue team and the Content team:
 
-<h1>**Catalogue Team**</h1>
+<h1>Catalogue Team</h1>
 <ul><li>Automating weekly and daily SQL queries and emailing the results to the whole team for someone to ingest the results. (6X different reports)</li>
 <li>Automate moving files from downloads to new folders for archiving</li>
 <li>Automating a weekly email to myself with all ticket numbers and corresponding product ID's I've worked on for the week, so I can search my emails to find a specific ticket as a fallback when searching the ticketing system fails</li>
@@ -46,3 +46,9 @@ I've used PowerShell macros for a variety of tasks for my Catalogue team and the
 </ul>
 
 
+<h2>Python</h2>
+
+I've used AI to help produce Python scripts for developing tools to improve workflows and simplify certain tasks within my team.
+
+<ul><li></li>
+</ul>
