@@ -24,7 +24,9 @@ Content Macro VBA Project
 
 
 
-PowerShell Macros
+
+
+**PowerShell Macros**
 
 I've used PowerShell macros for a variety of tasks for my Catalogue team and the Content team:
 **Catalogue Team**
