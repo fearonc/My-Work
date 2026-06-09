@@ -41,7 +41,7 @@ I've used PowerShell macros for a variety of tasks for my Catalogue team and the
 
 <h2>Content Team</h2>
 <ul><li>Cropping a batch of image files by a specificed %</li>
-<li>Renaming a batch of images in a specified folder using an Excel sheet to map old -> New file names</li>
+<li>Renaming a batch of images in a specified folder using an Excel sheet to map Old -> New file names</li>
 <li>A tool for also adding specific suffixes to image file names as well as duplicating the files if multiple suffixes are needed</li>
 </ul>
 
@@ -50,12 +50,12 @@ I've used PowerShell macros for a variety of tasks for my Catalogue team and the
 
 I've used AI to help produce Python scripts for developing tools to improve workflows and simplify certain tasks within my team.
 
-Translation uploader - This allows a user to simply copy in a table of options with relevant translations. It will then perform a variety of SQL queries to check the database for any existing options, and provide either insert or update SQL commands to write to the database. These updates do not have an audit log, so they also write the updates made, time/date, and requestor name to a live Excel doc on SharePoint, so we can keep our own audit log.
+Translation uploader - This allows a user to simply copy in a table of options with relevant translations. It will then perform a variety of SQL queries to check the database for any existing options and provide either insert or update SQL commands to write to the database. These updates do not have an audit log, so they also write the updates made, time/date, and requester's name to a live Excel doc on SharePoint, so we can keep our own audit log.
 <h2>Data input UI</h2>
 <img width="1351" height="940" alt="image" src="https://github.com/user-attachments/assets/812fe9bc-192f-4ef8-a7ac-d1a393c576ca" />
 <h2>Output Summary</h2>
 <img width="1192" height="814" alt="image" src="https://github.com/user-attachments/assets/b6f05dc2-012e-45cd-b578-586ee6f3b3a5" />
-<h2>Output of errors/warnings</h2>
+<h2>Output of Errors/Warnings</h2>
 <img width="1200" height="814" alt="image" src="https://github.com/user-attachments/assets/2493558b-cb24-4bcf-b59e-17dcee318772" />
 
 
