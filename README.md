@@ -3,7 +3,7 @@ A collation of all my AI and efficiency developments
 
 Using AI assistants such as Claude and Chat GPT I've developed a range of tools, workflow improvements, existing tool limitation workarounds, and time-saving processes for multiple teams.
 
-<h2>**Excel VBA macros**:</h2>
+<h2>Excel VBA macros:</h2>
 
 (Multiple different versions for different departments) Entire Macro worksheets with different VBA modules for data validation, data transformation, and data prepping for ingesting.
 Allowing a clear, simple workflow to carry out checks and automate very tedious data transformation.
@@ -26,7 +26,7 @@ Allowing a clear, simple workflow to carry out checks and automate very tedious 
 
 
 
-<h2>**PowerShell Macros**</h2>
+<h2>PowerShell Macros</h2>
 
 I've used PowerShell macros for a variety of tasks for my Catalogue team and the Content team:
 
@@ -39,7 +39,7 @@ I've used PowerShell macros for a variety of tasks for my Catalogue team and the
 <li>Automate splitting large sheets to decrease ingesting file size</li>
 </ul>
 
-<h1>**Content Team**</h1>
+<h1>Content Team</h1>
 <ul><li>Cropping a batch of image files by a specificed %</li>
 <li>Renaming a batch of images in a specified folder using an Excel sheet to map old -> New file names</li>
 <li>A tool for also adding specific suffixes to image file names as well as duplicating the files if multiple suffixes are needed</li>
