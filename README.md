@@ -29,6 +29,7 @@ Content Macro VBA Project
 **PowerShell Macros**
 
 I've used PowerShell macros for a variety of tasks for my Catalogue team and the Content team:
+
 **Catalogue Team**
 <ul><li>Automating weekly and daily SQL queries and emailing the results to the whole team for someone to ingest the results. (6X different reports)</li>
 <li>Automate moving files from downloads to new folders for archiving</li>
