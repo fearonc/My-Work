@@ -3,7 +3,10 @@ A collation of all my AI and efficiency developments
 
 Using AI assistants such as Claude and Chat GPT I've developed a range of tools, workflow improvements, existing tool limitation workarounds, and time-saving processes for multiple teams.
 
-<h1>Excel VBA macros:</h1>
+<details>
+<summary><strong>Excel VBA Macros</strong></summary>
+
+<br>
 
 (Multiple different versions for different departments) Entire Macro worksheets with different VBA modules for data validation, data transformation, and data prepping for ingesting.
 Allowing a clear, simple workflow to carry out checks and automate very tedious data transformation.
@@ -25,8 +28,12 @@ Allowing a clear, simple workflow to carry out checks and automate very tedious 
 I've developed several additional VBA macros for content that were incorporated into a single worksheet: A URL creator that produced a compliant URL based on a product title, a HTML checker to correct broken HTML and wrap plain text in correct HTML ready for ingesting, a complex Excel formula to concatenate data from a table with a lot of HTML to output a full HTML table from a sheet of product data.
 
 
+</details>
 
-<h1>PowerShell Macros</h1>
+<details>
+<summary><strong>PowerShell Macros</strong></summary>
+
+<br>
 
 I've used PowerShell macros for a variety of tasks for my Catalogue team and the Content team:
 
@@ -45,8 +52,12 @@ I've used PowerShell macros for a variety of tasks for my Catalogue team and the
 <li>A tool for also adding specific suffixes to image file names as well as duplicating the files if multiple suffixes are needed</li>
 </ul>
 
+</details>
 
-<h1>Python</h1>
+<details>
+<summary><strong>Python</strong></summary>
+
+<br>
 
 I've used AI to help produce Python scripts for developing tools to improve workflows and simplify certain tasks within my team.
 
@@ -64,8 +75,12 @@ I created an advanced Barcode search tool that can carry out multiple different 
 
 <img width="1816" height="1088" alt="image" src="https://github.com/user-attachments/assets/035105fb-55ec-408b-9880-f403c6feedb2" />
 
+</details>
 
-<h1>JavaScript</h1>
+<details>
+<summary><strong>JavaScript</strong></summary>
+
+<br>
 I've used JavaScript to develop multiple shortcuts, workflow improvements and tool limitation workarounds to use on our internal tools' UI on Chrome.
 
 <h2>Bookmarklets</h2>
@@ -108,3 +123,7 @@ Output:
 
 Results:
 <img width="2237" height="676" alt="image" src="https://github.com/user-attachments/assets/73e88abf-43e2-41e6-b90f-41ca7c126b63" />
+
+
+
+</details>
