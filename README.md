@@ -99,7 +99,10 @@ I developed this toolkit which is hosted on GitHub. It contains several tools to
 
 <img width="322" height="560" alt="image" src="https://github.com/user-attachments/assets/4d2a837d-bf3c-4d6d-8d24-76ddc5cb4c8d" />
 
-<h3>1: Relationship Option Bulk Update(Sensitive Data Blurred)</h3>
+<details>
+<summary><strong>1: Relationship Option Bulk Update(Sensitive Data Blurred)</strong></summary>
+
+<br>
 
 One of the biggest time-savers for our team. This bypasses a limitation that has been chased for 10+ years to resolve. This has saved multiple hours in a single use one multiple occasions, and frequently reduces ticket times by at least 5X on even smaller updates.
 
@@ -129,5 +132,5 @@ Results:
 <img width="2237" height="676" alt="image" src="https://github.com/user-attachments/assets/73e88abf-43e2-41e6-b90f-41ca7c126b63" />
 
 
-
+</details>
 </details>
