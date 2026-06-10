@@ -69,16 +69,17 @@ I created an advanced Barcode search tool that can carry out multiple different 
 I've used JavaScript to develop multiple shortcuts, workflow improvements and tool limitation workarounds to use on our internal tools' UI on Chrome.
 
 <h2>Bookmarklets</h2>
+<img width="352" height="51" alt="image" src="https://github.com/user-attachments/assets/db696cf5-ff3f-4d14-8185-b62b2069a422" />
 Here are 5 bookmarklets our team use on a daily basis, for every ticket completed. In order, they do the following:
 <ul><li>1: Grabs the requester name, ticket number, and current date from a Service Desk + ticket and copies it to the clipboard, ready for the user to simply paste it for renaming a downloaded file. Keeping naming standards consistent, quick and easy.</li>
 <li>2: Copies a specific table element from a UI to grab all newly created SKU, copies it to the user's clipboard, so it's ready to paste into Excel. Saves the user from having to manually drag to highlight a table that can be hundreds of rows long.</li>
 <li>3: Automates 4 button clicks and UI navigation to close tasks on a ticket, which needs to be done before it can be closed. Simplifying and speeding up manual steps.</li>
 <li>4: Automates clicks and typing to navigate to the reply tab, type a standard reply, then open the attachments window, so the user can re-attach a feedback sheet. Simplifying, speeding up, and bringing consistency to the ticket closure process.</li>
 <li>5: A multi-purpose toolkit I will cover next</li></ul>
-<img width="352" height="51" alt="image" src="https://github.com/user-attachments/assets/db696cf5-ff3f-4d14-8185-b62b2069a422" />
+
 
 <h2>JavaScript toolkit</h2>
-I developed this toolkit which is hosted on GitHub. IT contains several tools to overcome UI limitations of internal tools.
+I developed this toolkit which is hosted on GitHub. It contains several tools to overcome the UI limitations of internal tools.
 
 <img width="322" height="560" alt="image" src="https://github.com/user-attachments/assets/4d2a837d-bf3c-4d6d-8d24-76ddc5cb4c8d" />
 
