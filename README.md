@@ -105,7 +105,7 @@ One of the biggest time-savers for our team. This bypasses a limitation that has
 
 This allows a bulk process to update multiple fields on a page where it historically has to be done 1-by-1.
 
-The boxes seen in the screenshot would have to be edited manually 1 by 1 before, and could be required for hundreds at a time. This was extremely time-consuming. 
+The boxes seen in the screenshot would have to be edited manually 1 by 1 before, this could be required for hundreds at a time. This was extremely time-consuming. 
 
 The bulk method allows the user to have an Excel mapping of the SKUs and relevant changes. They can simply copy it into the tool and run, it will update the table dynamically for every matching SKU.
 <img width="2291" height="1078" alt="image" src="https://github.com/user-attachments/assets/bdf48e91-c65b-4320-8c11-de9c9b27de0e" />
