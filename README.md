@@ -182,7 +182,3 @@ These show each update where the search term was found and also shows the detail
 </details>
 </details>
 
-
-
-<img width="1857" height="528" alt="image" src="https://github.com/user-attachments/assets/a557c33b-4a65-4967-8c37-f010530365d4" />
-
