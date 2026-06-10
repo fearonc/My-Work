@@ -114,6 +114,7 @@ Before:
 <img width="2291" height="1078" alt="image" src="https://github.com/user-attachments/assets/2dc7aadf-1e6e-4318-a947-2faf4dbbd2e0" />
 
 Mapping for those SKUs and new options in Excel:
+
 <img width="430" height="133" alt="image" src="https://github.com/user-attachments/assets/05c26fba-43d7-4bc8-90fe-bd0b02980277" />
 
 
