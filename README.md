@@ -160,4 +160,29 @@ This has removed multiple steps from this process and speeds up re-ordering imag
 <img width="1102" height="532" alt="image" src="https://github.com/user-attachments/assets/bf7a5b2a-dcca-4961-b5ab-a93e8e288f9b" />
 
 </details>
+
+<details>
+<summary><strong>3: Audit History Search</strong></summary>
+
+<br>
+
+There is an Audit history page to check any changes made to a product. This consists of drop-downs for every update. However, Ctrl+F doesn't work on this page to find specifics within those drop-downs while they are collapsed. So users have to expand each row one by one to find what they're searching for. This tool uses the Inspect Element to search through all the collapsed rows to find the data.
+
+<img width="1857" height="528" alt="image" src="https://github.com/user-attachments/assets/a557c33b-4a65-4967-8c37-f010530365d4" />
+
+Results:
+
+These show each update where the search term was found and also shows the details for the upload as you cycle through the results.
+
+<img width="268" height="165" alt="image" src="https://github.com/user-attachments/assets/ae4c45c7-dfb6-4fad-acb8-07029e356694" />
+
+<img width="2306" height="1205" alt="image" src="https://github.com/user-attachments/assets/948fba9b-70a6-4938-8dca-751d46f23cf2" />
+
+
 </details>
+</details>
+
+
+
+<img width="1857" height="528" alt="image" src="https://github.com/user-attachments/assets/a557c33b-4a65-4967-8c37-f010530365d4" />
+
