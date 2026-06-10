@@ -133,4 +133,31 @@ Results:
 
 
 </details>
+
+<details>
+<summary><strong>2: Matrix Image Tool</strong></summary>
+
+<br>
+
+Matrix is the system name for the content management system. When the content team needed to re-order images in a product it was a convoluted method.
+
+They had to manually change the "Image order" number on the individual images. But changing to an existing image order would override the previous image in that order, so they'd first have to move it to a placeholder location like 999, then move the intended image, then move it back to the correct slot.
+
+This tool used a  UI to allow dragging and dropping of images, it then carries out the manual work of re-ordering them automatically.
+
+Original order:
+
+<img width="228" height="588" alt="image" src="https://github.com/user-attachments/assets/886f9a91-9874-458b-a60e-80f203190e47" />
+
+Tool UI:
+
+Drag and drop the images to re-order
+
+<img width="1104" height="877" alt="image" src="https://github.com/user-attachments/assets/b775693f-28c4-4a97-bfd0-db009502c221" />
+
+This has removed multiple steps from this process and speeds up re-ordering images a lot. There is also a tab that can be used to clean up any gaps in the image order numbering. Or to add a gap ready for inserting new images into a specific slot.
+
+<img width="1102" height="532" alt="image" src="https://github.com/user-attachments/assets/bf7a5b2a-dcca-4961-b5ab-a93e8e288f9b" />
+
+</details>
 </details>
