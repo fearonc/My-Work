@@ -78,3 +78,31 @@ Here are 5 bookmarklets our team use on a daily basis, for every ticket complete
 <img width="352" height="51" alt="image" src="https://github.com/user-attachments/assets/db696cf5-ff3f-4d14-8185-b62b2069a422" />
 
 <h2>JavaScript toolkit</h2>
+I developed this toolkit which is hosted on GitHub. IT contains several tools to overcome UI limitations of internal tools.
+
+<img width="322" height="560" alt="image" src="https://github.com/user-attachments/assets/4d2a837d-bf3c-4d6d-8d24-76ddc5cb4c8d" />
+
+1: Relationship Option Bulk Update(Sensitive Data Blurred) - One of the biggest time-savers for our team. This bypasses a limitation that has been chased for 10+ years to resolve. This has saved multiple hours in a single use one multiple occasions, and frequently reduces ticket times by at least 5X on even smaller updates.
+This allows a bulk process to update multiple fields on a page where it historically has to be done 1-by-1.
+
+The boxes seen in the screenshot would have to be edited manually 1 by 1 before, and could be required for hundreds at a time. This was extremely time-consuming. 
+
+The bulk method allows the user to have an Excel mapping of the SKUs and relevant changes. They can simply copy it into the tool and run, it will update the table dynamically for every matching SKU.
+<img width="2291" height="1078" alt="image" src="https://github.com/user-attachments/assets/bdf48e91-c65b-4320-8c11-de9c9b27de0e" />
+
+Before:
+<img width="2291" height="1078" alt="image" src="https://github.com/user-attachments/assets/2dc7aadf-1e6e-4318-a947-2faf4dbbd2e0" />
+
+Mapping for those SKUs and new options in Excel:
+<img width="430" height="133" alt="image" src="https://github.com/user-attachments/assets/05c26fba-43d7-4bc8-90fe-bd0b02980277" />
+
+
+Tool:
+<img width="978" height="618" alt="image" src="https://github.com/user-attachments/assets/e6d27468-feb4-411c-b85f-ba89f015b2bb" />
+
+
+Output:
+<img width="982" height="505" alt="image" src="https://github.com/user-attachments/assets/7128c322-d38e-4dea-a2c9-b7b430b7f642" />
+
+Results:
+<img width="2237" height="676" alt="image" src="https://github.com/user-attachments/assets/73e88abf-43e2-41e6-b90f-41ca7c126b63" />
