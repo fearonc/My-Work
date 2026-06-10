@@ -60,6 +60,6 @@ Translation uploader - This allows a user to simply copy in a table of options w
 
 
 <h2>Advanced barcode search</h2>
-I created an advanced Barcode search tool that can carry out multiple different SQL queries and provide concise results to search for multiple parameters. Eliminating the need to do multiple different searches, saving users' time.
+I created an advanced Barcode search tool that can carry out multiple different SQL queries and provide concise results to search for multiple parameters (In this case, different organisations). Eliminating the need to do multiple different searches, saving users' time.
 
 <img width="1816" height="1088" alt="image" src="https://github.com/user-attachments/assets/035105fb-55ec-408b-9880-f403c6feedb2" />
