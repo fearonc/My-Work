@@ -170,13 +170,15 @@ There is an Audit history page to check any changes made to a product. This cons
 
 <img width="1857" height="528" alt="image" src="https://github.com/user-attachments/assets/a557c33b-4a65-4967-8c37-f010530365d4" />
 
-Results:
-
 These show each update where the search term was found and also shows the details for the upload as you cycle through the results.
+
+Results:
 
 <img width="551" height="242" alt="image" src="https://github.com/user-attachments/assets/09443d19-1065-4352-951e-a310a31b57da" />
 
+
 <img width="268" height="165" alt="image" src="https://github.com/user-attachments/assets/ae4c45c7-dfb6-4fad-acb8-07029e356694" />
+
 
 <img width="2306" height="1205" alt="image" src="https://github.com/user-attachments/assets/948fba9b-70a6-4938-8dca-751d46f23cf2" />
 
