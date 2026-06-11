@@ -188,5 +188,67 @@ Full page view:
 
 
 </details>
+
+<details>
+<summary><strong>4: Wrap for SQL "In" list</strong></summary>
+
+<br>
+
+This is a purely time-saving shortcut. It lets the user copy in a list of data, it then wraps it in the correct formatting to simply paste straight into a SQL query.
+
+Copied Data:
+<img width="131" height="229" alt="image" src="https://github.com/user-attachments/assets/6654b130-0c94-43d6-b14d-22d52e3024d7" />
+
+
+Output from tool:
+<img width="909" height="677" alt="image" src="https://github.com/user-attachments/assets/66f1c0c6-737b-495a-8d4a-d6d19e1ea7dc" />
+
+
+Ready to paste straight into SQL:
+<img width="341" height="272" alt="image" src="https://github.com/user-attachments/assets/69d20088-144d-433a-93a8-cfb078b1c7dc" />
+
+
+</details>
+
+
+<details>
+<summary><strong>5: JSON Viewer</strong></summary>
+
+<br>
+
+This was designed to make certain web pages that only display JSON data more readable and usable. It breaks up the data and includes expandable/collapsible trees to view "layered" data clearly. As well as adding a search function to the page. Below is an example using a public placeholder JSON endpoint.
+
+It also has features to expand or collapse all the trees, and also render HTML, so any HTML can be displayed properly, rather than just raw HTML
+
+Before:
+<img width="1073" height="1321" alt="image" src="https://github.com/user-attachments/assets/b1d72f50-cee6-46fc-8ccd-32f56dea57cb" />
+
+After:
+<img width="1197" height="1228" alt="image" src="https://github.com/user-attachments/assets/38e78a9c-481a-47d6-bc75-3dbecf84d15d" />
+
+</details>
+
+<details>
+<summary><strong>6: Dark Mode and Pink mode</strong></summary>
+
+<br>
+
+Our internal tools' UI's don't have dark modes enabled, and I prefer dark mode, so I made my own version that uses the elements on the pages specific to the UI's and changes the colour theme.
+
+The pink version was for a colleague who wanted her own pink version, so I used it as an excuse to "tinker" some more and make a new overlay. Not to my - or most people's- taste, but she likes everything pink.
+
+Before:
+<img width="2452" height="1200" alt="image" src="https://github.com/user-attachments/assets/2a81c202-07ed-449c-abab-58b77a70af59" />
+
+
+Dark Mode:
+<img width="2470" height="1206" alt="image" src="https://github.com/user-attachments/assets/2640e40e-da6f-4889-bf0d-6375d0c4a7b4" />
+
+
+Pink Mode:
+<img width="2438" height="1201" alt="image" src="https://github.com/user-attachments/assets/f9a23730-a702-48df-84f7-16e9bcabe632" />
+
+</details>
+
 </details>
 
