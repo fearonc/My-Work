@@ -197,14 +197,17 @@ Full page view:
 This is a purely time-saving shortcut. It lets the user copy in a list of data, it then wraps it in the correct formatting to simply paste straight into a SQL query.
 
 Copied Data:
+
 <img width="131" height="229" alt="image" src="https://github.com/user-attachments/assets/6654b130-0c94-43d6-b14d-22d52e3024d7" />
 
 
 Output from tool:
+
 <img width="909" height="677" alt="image" src="https://github.com/user-attachments/assets/66f1c0c6-737b-495a-8d4a-d6d19e1ea7dc" />
 
 
 Ready to paste straight into SQL:
+
 <img width="341" height="272" alt="image" src="https://github.com/user-attachments/assets/69d20088-144d-433a-93a8-cfb078b1c7dc" />
 
 
@@ -221,9 +224,11 @@ This was designed to make certain web pages that only display JSON data more rea
 It also has features to expand or collapse all the trees, and also render HTML, so any HTML can be displayed properly, rather than just raw HTML
 
 Before:
+
 <img width="1073" height="1321" alt="image" src="https://github.com/user-attachments/assets/b1d72f50-cee6-46fc-8ccd-32f56dea57cb" />
 
 After:
+
 <img width="1197" height="1228" alt="image" src="https://github.com/user-attachments/assets/38e78a9c-481a-47d6-bc75-3dbecf84d15d" />
 
 </details>
