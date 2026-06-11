@@ -27,15 +27,18 @@ Steps displayed in the following Screenshots:
 
 3: Condition: Look in the body, If it contains key word like "Urgent" (This can be expanded to include other key words)
 
-4: True: Move email to Urgent folder
+ True: Move email to Urgent folder
 
-5: Fale: Run another Condition
+4: Fale: Run another Condition
 
-6: Condition: Does Body contain "NDA" (This can be expanded to include other key words)
+Condition: Does Body contain "NDA" (This can be expanded to include other key words)
 
-7: True: Move email to Standard Review folder
+5: True: Move email to Standard Review folder
 
-8: False: Run another Condition
+6: False: Move to Low Priority folder
+
+7: Create the item in the Microsoft list for the email
+
 
 1:
 <img width="2543" height="1152" alt="image" src="https://github.com/user-attachments/assets/03212ef7-f4b9-40af-8486-f07775ff78a9" />
