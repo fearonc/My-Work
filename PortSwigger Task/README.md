@@ -21,23 +21,24 @@ Setting up the list in Microsoft Lists. Below is the example I've setup with the
 This is where the "flow" would carry out the work to add the emails to the Microsoft List. It looks in the inbox for the legal team's email address. Converts the body of the email from HTML to plain text, then adds all the relevant details from the email into the Microsoft List.
 
 Steps displayed in the following Screenshots:
+
 1: Setting "When new email arrives in the inbox"
 
 2: Converting the HTML body of the email to plain text
 
 3: Condition: Look in the body, If it contains key word like "Urgent" (This can be expanded to include other key words)
 
- True: Move email to Urgent folder
+4: True: Move email to Urgent folder
 
-4: Fale: Run another Condition
+5: Fale: Run another Condition
 
 Condition: Does Body contain "NDA" (This can be expanded to include other key words)
 
-5: True: Move email to Standard Review folder
+6: True: Move email to Standard Review folder
 
-6: False: Move to Low Priority folder
+7: False: Move to Low Priority folder
 
-7: Create the item in the Microsoft list for the email
+8: Create the item in the Microsoft list for the email
 
 
 1:
@@ -63,3 +64,8 @@ Condition: Does Body contain "NDA" (This can be expanded to include other key wo
 
 8:
 <img width="2276" height="992" alt="image" src="https://github.com/user-attachments/assets/6739c9cb-b8d0-4a3c-b183-4146a2439a8d" />
+
+
+<h3>Improving with AI</h3>
+
+This current method would at least filter some emails to relevant folders to prioritise important emails. But to improve upon this, it could later be linked to an AI of your choosing to have the AI read the subject and email body and determine more accurately the urgency of the email based on not only keywords, but the tone and subject matter within the body of the email.
