@@ -20,9 +20,43 @@ Setting up the list in Microsoft Lists. Below is the example I've setup with the
 
 This is where the "flow" would carry out the work to add the emails to the Microsoft List. It looks in the inbox for the legal team's email address. Converts the body of the email from HTML to plain text, then adds all the relevant details from the email into the Microsoft List.
 
-<img width="1534" height="843" alt="image" src="https://github.com/user-attachments/assets/d6245f53-c4f7-42b2-a626-782d1f23b94a" />
+Steps displayed in the following Screenshots:
+1: Setting "When new email arrives in the inbox"
 
+2: Converting the HTML body of the email to plain text
 
-<img width="1474" height="637" alt="image" src="https://github.com/user-attachments/assets/90f5bc75-9df2-4ed1-8ba7-36a43cdf52c9" />
+3: Condition: Look in the body, If it contains key word like "Urgent" (This can be expanded to include other key words)
 
-<img width="1491" height="930" alt="image" src="https://github.com/user-attachments/assets/f551a333-01f4-42b4-84a4-6cc14cae04cd" />
+4: True: Move email to Urgent folder
+
+5: Fale: Run another Condition
+
+6: Condition: Does Body contain "NDA" (This can be expanded to include other key words)
+
+7: True: Move email to Standard Review folder
+
+8: False: Run another Condition
+
+1:
+<img width="2543" height="1152" alt="image" src="https://github.com/user-attachments/assets/03212ef7-f4b9-40af-8486-f07775ff78a9" />
+
+2:
+<img width="1865" height="520" alt="image" src="https://github.com/user-attachments/assets/2f36182e-a403-4789-8796-460e729738c0" />
+
+3:
+<img width="2291" height="911" alt="image" src="https://github.com/user-attachments/assets/0f706178-e2b9-4793-8189-4b7b6307608e" />
+
+4:
+<img width="1494" height="880" alt="image" src="https://github.com/user-attachments/assets/678a81f7-7028-4238-9940-0856f2874f0a" />
+
+5:
+<img width="2172" height="774" alt="image" src="https://github.com/user-attachments/assets/f4d261dd-cecb-4f40-82fb-ec1ab0008522" />
+
+6:
+<img width="1827" height="966" alt="image" src="https://github.com/user-attachments/assets/09456d3b-3b50-4be0-9b46-c3937e3cb273" />
+
+7:
+<img width="2182" height="985" alt="image" src="https://github.com/user-attachments/assets/294bf19b-16a8-4459-a272-6ee60a6bc1f9" />
+
+8:
+<img width="2276" height="992" alt="image" src="https://github.com/user-attachments/assets/6739c9cb-b8d0-4a3c-b183-4146a2439a8d" />
